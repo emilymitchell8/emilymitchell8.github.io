@@ -2,6 +2,4 @@
 title: "emilymitchell8.github.io"
 ---
 
-```{r}
-1 + 1
-```
+This is my website!
