@@ -6,11 +6,11 @@ about:
   image-width: 10em
   links: 
     - text: LinkedIn
-      href: //https://www.linkedin.com/in/emilymitchell8
+      href: //https://www.linkedin.com/in/emilymitchell8/
     - text: Email
       href: //ekmitch@colostate.edu
     - text: Github
-      href: //https://github.com/emilymitchell8
+      href: //https://github.com/emilymitchell8/
 ---
 
 ![](images/1ECC5E3D-8234-4D75-AF06-FCC40EDC5E7F_1_105_c.jpeg)
