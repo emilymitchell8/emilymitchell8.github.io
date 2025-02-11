@@ -4,15 +4,15 @@ project:
 
 website:
   title: "Emily Mitchell"
-  page-footer:
-    left: "© 2025 Emily Mitchell"
-    right: "[My GitHub](https://github.com/emilymitchell8)"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - resume.qmd 
+  page-footer:
+    left: "© 2025 Emily Mitchell"
+    right: "[My GitHub](https://github.com/emilymitchell8)"
 
 format:
   html:

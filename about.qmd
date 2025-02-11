@@ -2,4 +2,13 @@
 title: "Projects"
 ---
 
-Hello, My name is Emily Mitchell
+In the Spring of 2025 I took a Quantitative Reasoning class based in R. Here is a collection of projects from that class.
+
+1.  Personal Portfolio Website
+    -   Linked [Here](https://emilymitchell8.github.io)
+
+    -   Built a site with Github Pages
+
+    -   Includes a github repo for access to all the code
+
+    -   Gained exposure to R Studio workflows and a variety of document types such as YML, HTML, CSS, and QMD
