@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "emilymitchell8.github.io"
+  title: "Emily Mitchell"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resume.qmd 
+      - text: Resume
 
 format:
   html:
