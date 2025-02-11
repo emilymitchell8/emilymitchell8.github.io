@@ -1,5 +1,5 @@
 ---
-title: "Emily Mitchell"
+title: "About"
 about: 
   template: jolla
   image-shape: rectangle
