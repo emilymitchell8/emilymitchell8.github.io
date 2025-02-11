@@ -6,11 +6,11 @@ about:
   image-width: 10em
   links: 
     - text: LinkedIn
-      href: https://www.linkedin.com/in/emilymitchell8
+      href: //https://www.linkedin.com/in/emilymitchell8
     - text: Email
       href: //ekmitch@colostate.edu
     - text: Github
-      href: https://github.com/emilymitchell8
+      href: //https://github.com/emilymitchell8
 ---
 
 Hello! My name is Emily Mitchell, and I am studying Ecosystem Science and Sustainability with a minor in Watershed Science at Colorado State University. I hope to develop a career in environmental science with a concentration in water quality and water management. I grew up in Northwest Montana and enjoy spending time outside hiking, camping, and skiing. I also enjoy crafting, baking, and rollerblading.
