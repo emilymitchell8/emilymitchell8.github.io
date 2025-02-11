@@ -1,18 +1,18 @@
 ---
 title: "About"
 about: 
-  template: jolla
+  template: solana
   image-shape: rectangle
   image-width: 10em
   links: 
     - text: LinkedIn
-      href: //https://www.linkedin.com/in/emilymitchell8/
+      href: //https://www.linkedin.com/in/emilymitchell8
     - text: Email
       href: //ekmitch@colostate.edu
     - text: Github
-      href: //https://github.com/emilymitchell8/
+      href: //https://github.com/emilymitchell8
 ---
 
-![](images/1ECC5E3D-8234-4D75-AF06-FCC40EDC5E7F_1_105_c.jpeg)
+Hello! My name is Emily Mitchell, and I am studying Ecosystem Science and Sustainability with a minor in Watershed Science at Colorado State University. I hope to develop a career in environmental science with a concentration in water quality and water management. I grew up in Northwest Montana and enjoy spending time outside hiking, camping, and skiing. I also enjoy crafting, baking, and rollerblading.
 
-Hello! My name is Emily Mitchell, and I am studying Ecosystem Science and Sustainability with a minor in Watershed Science at Colorado State University. I hope to develop a career in environmental science with a concentration in water quality and water management. I grew up in Northwest Montana and enjoy spending time outside hiking, camping, and skiiing. I also enjoy crafting, baking, and rollerblading.
+![](images/EmilyMitchell.jpeg){fig-align="center" width="312"}

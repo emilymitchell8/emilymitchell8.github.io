@@ -1,0 +1,21 @@
+
+  /*-- scss:defaults --*/
+// Define variables for colors
+$primary-color: #68977D; // Green
+$secondary-color: #976882; // Purple
+$background-color: #F4F1DE; // Light beige
+$text-color: #264653; // Dark blue
+
+
+/*-- scss:rules --*/
+body {
+  background-color: $secondary-color;
+  color: $text-color;
+  font-family: "Arial", sans-serif;
+
+}
+
+.navbar {
+  background-color: $primary-color;
+  color: $text-color;
+}
