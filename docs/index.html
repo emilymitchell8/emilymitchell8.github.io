@@ -67,10 +67,10 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="custom.scss">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-sidebar docked nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -105,10 +105,45 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">About</li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="https://www.linkedin.com/in/emilymitchell8" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">LinkedIn</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="mailto:ekmitch@colostate.edu" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Email</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="https://github.com/emilymitchell8" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Github</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -121,19 +156,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="quarto-title-meta">
   </div>
-</header> <div class="about-links">
-  <a href="//https://www.linkedin.com/in/emilymitchell8" class="about-link" rel="" target="">
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="//https://mailto:ekmitch@colostate.edu" class="about-link" rel="" target="">
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="//https://github.com/emilymitchell8" class="about-link" rel="" target="">
-     <span class="about-link-text">Github</span>
-  </a>
-</div>
+</header> 
       <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Hello! My name is Emily Mitchell, and I am studying Ecosystem Science and Sustainability with a minor in Watershed Science at Colorado State University. I hope to develop a career in environmental science with a concentration in water quality and water management. I grew up in Northwest Montana and enjoy spending time outside hiking, camping, and skiing. I also enjoy crafting, baking, and rollerblading.</p>
+<p>Hello! My name is Emily Mitchell, and I am studying Ecosystem Science and Sustainability with a minor in Watershed Science at Colorado State University. I hope to develop a career in environmental science with a concentration in water quality and water management. I grew up in Northwest Montana and enjoy spending time outside hiking, camping, and skiing. I also enjoy baking, crafting, and rollerblading.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/EmilyMitchell.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="312"></p>
@@ -560,19 +585,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-<p>© 2025 Emily Mitchell</p>
-</div>   
-    <div class="nav-footer-center">
-      &nbsp;
-    </div>
-    <div class="nav-footer-right">
-<p><a href="https://github.com/emilymitchell8">My GitHub</a></p>
-</div>
-  </div>
-</footer>
 
 
 

@@ -6,18 +6,28 @@ website:
   title: "Emily Mitchell"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        href: index.qmd
       - about.qmd
       - resume.qmd 
-  page-footer:
+  sidebar:
+    style: docked
+    contents:
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/emilymitchell8
+      - text: Email
+        href: mailto:ekmitch@colostate.edu
+      - text: Github
+        href: https://github.com/emilymitchell8
+      
+page-footer:
     left: "© 2025 Emily Mitchell"
     right: "[My GitHub](https://github.com/emilymitchell8)"
 
 format:
   html:
     theme: custom.scss
-    css: styles.css
+    css: custom.scss
     toc: true
 
 editor: visual
