@@ -10,15 +10,6 @@ website:
         href: index.qmd
       - about.qmd
       - resume.qmd 
-  sidebar:
-    style: docked
-    contents:
-      - text: LinkedIn
-        href: https://www.linkedin.com/in/emilymitchell8
-      - text: Email
-        href: mailto:ekmitch@colostate.edu
-      - text: Github
-        href: https://github.com/emilymitchell8
       
 page-footer:
     left: "© 2025 Emily Mitchell"
